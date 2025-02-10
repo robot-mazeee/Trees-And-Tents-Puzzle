@@ -3,7 +3,7 @@
 
 :- use_module(library(clpfd)).
 :- set_prolog_flag(answer_write_options,[max_depth(0)]). 
-:- ["puzzlesAcampar.pl"]. 
+:- ["Puzzles.pl"]. 
 
 /*-----------------------------------------------------------*/
 /*----------------------Consultas----------------------------*/
